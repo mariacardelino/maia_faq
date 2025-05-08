@@ -48,4 +48,4 @@ Next: insert the filter. The silver cap holds the filter (place barcode-up, see 
 
 Fill out the filter tracking log.
 
-For more details, refer to the FAQ sections on the left.
+For more details, refer to the AMOD Manual, SOP, and/or FAQ sections.

@@ -19,4 +19,4 @@ If this does not fix the issue, you may have to let the AMOD run with Wi-Fi turn
 
 After the sample period is done, you can take the device back inside to charge and connect to Wi-Fi. The device will push some of the missed data to the website.
 
-If the AMOD will not connect to Wi-Fi, please contact the Emory team for support.
+If the AMOD will still not connect to Wi-Fi, please contact the Emory team for support.
