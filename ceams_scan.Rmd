@@ -1,0 +1,20 @@
+---
+title: "CEAMS Scan Issues"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+---
+
+[Back to Home](index.html)
+
+## The AMOD does not show up when I push 'Scan' in the CEAMS mobile application.
+
+First, check that you have Bluetooth enabled on your phone (ensure your phone can connect to any Bluetooth device).
+
+Second, make sure that the AMOD is turned on and that the LED light is pink.
+
+If the device still does not appear, try restarting your phone or using another mobile device with the CEAMS application.
+
+**Tip:** Connect the unit to a computer to see if the device is discoverable on the computer. This will identify whether the device is functional.

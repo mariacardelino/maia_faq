@@ -1,0 +1,16 @@
+---
+title: "LED Light Flashes"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+---
+
+[Back to Home](index.html)
+
+## When I turn my AMOD on and try to pair it, the LED light flashes.
+
+Your device likely had a complete battery drain. Please charge the AMOD and then proceed to connect to the device. The LED light will stop flashing once it has reestablished GPS clock time.
+
+**Tip:** Turn on the unit while it is outside to help reestablish GPS clock time.

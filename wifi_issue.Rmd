@@ -1,0 +1,22 @@
+---
+title: "Wi-Fi Connection Issues"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+---
+
+[Back to Home](index.html)
+
+## The AMOD will not connect to my Wi-Fi.
+
+If you are outside, go indoors and try to connect while inside. Then go back outside and check if your Wi-Fi signal is strong enough to connect to your phone.
+
+If not, you may need to move the AMOD closer to the Wi-Fi router or powercycle both the CEAMS app and the AMOD.
+
+If this does not fix the issue, you may have to let the AMOD run with Wi-Fi turned off. In this case, you will not be able to see your data on the website in real-time.
+
+After the sample period is done, you can take the device back inside to charge and connect to Wi-Fi. The device will push some of the missed data to the website.
+
+If the AMOD will not connect to Wi-Fi, please contact the Emory team for support.

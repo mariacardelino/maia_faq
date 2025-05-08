@@ -1,0 +1,26 @@
+---
+title: "AMOD/S Device Troubleshooting"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+---
+
+## Welcome to AMOD/S Device Troubleshooting
+
+Choose from the list of FAQs below for help with your device.
+
+Contact [christian.lorange@colostate.edu](mailto:christian.lorange@colostate.edu?subject=Support%20for%20AMOD%20Device) and [sabrina.chow@emory.edu](mailto:sabrina.chow@emory.edu?subject=Support%20for%20AMOD%20Device) for additional support.
+
+### Quick Links
+
+- [Basic Setup](basic_setup.html)
+- [What do the LED light colors mean?](led_colors.html)
+- [My device will not turn on](device_not_turning_on.html)
+- [When I turn my AMOD on and try to pair it, the LED light flashes](led_light_flashes.html)
+- [The LED light stays solid orange when I push 'Start Sampling'](led_stays_red.html)
+- [The AMOD will not connect to my Wi-Fi](wifi_issue.html)
+- [The AMOD does not show up when I push 'Scan' in the CEAMS mobile application](ceams_scan.html)
+- [The Wi-Fi router keeps draining/dying](wifi_router_draining.html)
+- [Glossary of Terms](glossary.html)

@@ -1,0 +1,75 @@
+/* Custom styles for AMOD troubleshooting site */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  color: #333;
+}
+
+.navbar {
+  background-color: #2c3e50;
+  border-radius: 0;
+}
+
+.navbar-default .navbar-brand {
+  color: #ecf0f1;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #ecf0f1;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #2c3e50;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+img {
+  display: inline-block;
+  margin: 15px 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.back-link {
+  margin-bottom: 20px;
+  display: inline-block;
+}
+
+/* Style the callout boxes */
+.callout {
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid #eee;
+  border-left-width: 5px;
+  border-radius: 3px;
+}
+
+.callout-info {
+  border-left-color: #5bc0de;
+}
+
+.callout-warning {
+  border-left-color: #f0ad4e;
+}
+
+.callout-danger {
+  border-left-color: #d9534f;
+}
+
+/* Footer styles */
+footer {
+  margin-top: 45px;
+  padding-top: 20px;
+  border-top: 1px solid #eee;
+  color: #777;
+  text-align: center;
+}
+
+/* Make images responsive */
+img {
+  max-width: 100%;
+  height: auto;
+}

@@ -1,0 +1,16 @@
+---
+title: "Glossary of Terms"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+---
+
+[Back to Home](index.html)
+
+## Glossary of Terms
+
+- **AMOD:** Aerosol Mass and Optical Depth device
+- **PM2.5:** Small particulate matter
+- **CEAMS:** Citizen-enabled aerosol measurements for satellites

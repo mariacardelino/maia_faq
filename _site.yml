@@ -1,0 +1,39 @@
+name: "amod-troubleshooting"
+output_dir: "docs"
+navbar:
+  title: "AMOD/S Device Troubleshooting"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Basic Setup"
+      href: basic_setup.html
+    - text: "Troubleshooting"
+      menu:
+        - text: "LED Colors"
+          href: led_colors.html
+        - text: "Device Not Turning On"
+          href: device_not_turning_on.html
+        - text: "LED Light Flashes"
+          href: led_light_flashes.html
+        - text: "LED Stays Orange"
+          href: led_stays_red.html
+        - text: "Wi-Fi Issues"
+          href: wifi_issue.html
+        - text: "CEAMS Scan Issues"
+          href: ceams_scan.html
+        - text: "Wi-Fi Router Draining"
+          href: wifi_router_draining.html
+    - text: "Glossary"
+      href: glossary.html
+  right:
+    - text: "Contact"
+      href: mailto:christian.lorange@colostate.edu?subject=Support%20for%20AMOD%20Device
+
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    toc: true
+    toc_float: true
+    toc_depth: 2
+    css: styles.css

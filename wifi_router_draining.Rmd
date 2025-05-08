@@ -1,0 +1,16 @@
+---
+title: "Wi-Fi Router Draining"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+---
+
+[Back to Home](index.html)
+
+## The Wi-Fi router keeps draining/dying.
+
+If the router is placed on a rooftop, overheating may be the cause of this issue.
+
+Try removing the battery of the router to prevent Wi-Fi disconnection.

@@ -1,0 +1,16 @@
+---
+title: "LED Stays Orange During Sampling"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+---
+
+[Back to Home](index.html)
+
+## The LED light stays solid orange when I push 'Start Sampling'/ is unable to find the sun.
+
+This is likely because the AMOD GPS has not synced. Therefore, it does not know its location and cannot calculate the angle for the sun.
+
+Occasionally, it will have to wait until the second scan (20 minutes after the start time) to locate itself and find the sun.

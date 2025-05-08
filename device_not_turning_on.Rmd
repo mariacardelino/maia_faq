@@ -1,0 +1,22 @@
+---
+title: "Device Not Turning On"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+---
+
+[Back to Home](index.html)
+
+## My device will not turn on.
+
+**Step 1:** Make sure the unit is connected to a working power supply, whether this be a wall outlet or a battery.
+
+**Step 2:** Check the functionality of the LED light. Does the LED light come on when it is charging (plugged in)? It should be a light magenta color.
+
+If not, try pressing down on the button for at least 3 seconds and listen for whether you hear the device turn on. If it does, then only the LED light is out, and you can still pair the device.
+
+**Step 3:** If nothing happens when pressing the button, try leaving the device charging overnight. Again, check if the LED light is on while it is charging.
+
+If the LED light is not coming on after charging overnight, please contact the Emory team.
