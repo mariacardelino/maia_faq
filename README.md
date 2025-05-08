@@ -1,7 +1,7 @@
 # AMOD/S Device Troubleshooting Website
 
 This repository contains documentation for the AMOD/S device troubleshooting in the form of R Markdown files that can be published to GitHub Pages.
-Maria's notes of what needs to be fixed: Make led photo larger. Make the email links work. Add photos for the wifi issue page (how to turn the Wifi off to conduct sampling. How to delete the WiFi network and attempt to reconnect). Add instructions on how to update the filter log.
+Maria's notes of what needs to be fixed: Make led photo larger. Make the email links work. Make the contact button work or remove it. Add photos for the wifi issue page (how to turn the Wifi off to conduct sampling. How to delete the WiFi network and attempt to reconnect). Add instructions on how to update the filter log.
 
 ## HOW TO EDIT
 - Clone the repository (in your terminal):
